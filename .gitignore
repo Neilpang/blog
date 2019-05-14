@@ -2,6 +2,7 @@
 .jekyll-metadata
 .idea
 .DS_Store
+.autogit/logs
 _site
 
 
