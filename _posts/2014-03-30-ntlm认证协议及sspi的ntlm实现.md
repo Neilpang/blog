@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: NTLM认证协议及SSPI的NTLM实现
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 542
 wordpress_url: http://blog.byneil.com/?p=542
 date: '2014-03-30 16:00:30 +0000'

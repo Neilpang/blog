@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: pfsense 可以直接安装 freebsd 的软件包
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1234
 wordpress_url: https://blog.byneil.com/?p=1234
 date: '2017-09-02 22:21:13 +0000'

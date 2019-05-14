@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: fstab,mtab,mount,fdisk 查看系统磁盘详情
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 379
 wordpress_url: https://blog.byneil.com/?p=379
 date: '2014-03-05 22:08:40 +0000'

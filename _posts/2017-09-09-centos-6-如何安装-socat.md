@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: centos 6 如何安装 socat
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1238
 wordpress_url: https://blog.byneil.com/?p=1238
 date: '2017-09-09 13:31:09 +0000'

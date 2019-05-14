@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 收藏 scp (Secure copy)协议
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 162
 wordpress_url: http://blog.byneil.com/?p=162
 date: '2013-12-21 23:05:18 +0000'

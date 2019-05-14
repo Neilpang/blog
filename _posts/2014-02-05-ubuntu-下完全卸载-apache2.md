@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Ubuntu 下完全卸载 apache2
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 260
 wordpress_url: http://blog.byneil.com/?p=260
 date: '2014-02-05 18:34:20 +0000'

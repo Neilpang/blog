@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: ssh 使用public key 免密码登录
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 356
 wordpress_url: http://blog.byneil.com/?p=356
 date: '2014-02-23 19:58:46 +0000'

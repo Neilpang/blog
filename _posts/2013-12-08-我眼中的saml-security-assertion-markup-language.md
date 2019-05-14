@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 我眼中的SAML (Security Assertion Markup Language)
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 149
 wordpress_url: http://blog.byneil.com/?p=149
 date: '2013-12-08 16:30:27 +0000'

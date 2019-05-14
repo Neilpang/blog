@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 添加Access-Control-Allow-Origin主机头, 授权资源跨站访问
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1002
 wordpress_url: https://blog.byneil.com/?p=1002
 date: '2014-09-24 22:02:48 +0000'

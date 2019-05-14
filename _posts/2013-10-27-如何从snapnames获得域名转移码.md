@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 如何从snapnames获得域名转移码
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 116
 wordpress_url: http://blog.byneil.com/?p=116
 date: '2013-10-27 11:18:46 +0000'

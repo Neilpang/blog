@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Linux 下如何保存并恢复 firefox 的设置
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1183
 wordpress_url: https://blog.byneil.com/?p=1183
 date: '2017-03-25 20:20:08 +0000'

@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 排除不受信任的根证书列表:cnnic, alibaba
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1035
 wordpress_url: https://blog.byneil.com/?p=1035
 date: '2014-12-06 14:17:50 +0000'

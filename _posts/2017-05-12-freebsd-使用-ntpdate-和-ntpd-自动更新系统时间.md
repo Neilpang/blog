@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: freebsd 使用 Ntpdate 和 Ntpd 自动更新系统时间
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1186
 wordpress_url: https://blog.byneil.com/?p=1186
 date: '2017-05-12 20:45:57 +0000'

@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 解决：wordpress无法安装插件，无法安装主题
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 254
 wordpress_url: http://blog.byneil.com/?p=254
 date: '2014-02-02 14:05:23 +0000'

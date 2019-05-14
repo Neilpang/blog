@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 学一点 mysql 双机异地热备份----mysql主从，主主备份原理及实践
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 338
 wordpress_url: http://blog.byneil.com/?p=338
 date: '2014-02-15 18:34:37 +0000'

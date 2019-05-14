@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: opensuse:42.1 zypper 安装软件错误
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1236
 wordpress_url: https://blog.byneil.com/?p=1236
 date: '2017-09-09 13:27:22 +0000'

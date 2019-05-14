@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Nodejs 的 c++ module 如何正确链接到 OpenSSL
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 599
 wordpress_url: https://blog.byneil.com/?p=599
 date: '2014-08-02 17:24:03 +0000'

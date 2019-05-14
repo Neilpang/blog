@@ -3,11 +3,11 @@ layout: boxes
 status: publish
 published: true
 title: Drag&amp;Drop Design
-author:
+author: Neil
   display_name: ''
   login: ''
   email: ''
-  url: ''
+
 wordpress_id: 58
 wordpress_url: http://blog.byneil.com/?boxes=dragdrop-design
 date: '2013-07-05 09:48:55 +0000'

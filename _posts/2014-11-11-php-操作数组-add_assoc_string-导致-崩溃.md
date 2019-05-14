@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: php 操作数组 add_assoc_string 导致 崩溃
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1023
 wordpress_url: https://blog.byneil.com/?p=1023
 date: '2014-11-11 17:57:11 +0000'

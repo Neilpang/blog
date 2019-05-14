@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Ubuntu 启用磁盘配额 quota
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 843
 wordpress_url: https://blog.byneil.com/?p=843
 date: '2014-08-31 18:15:45 +0000'

@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 如何编译 google chrome v8 引擎
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1153
 wordpress_url: https://blog.byneil.com/?p=1153
 date: '2017-03-17 20:30:04 +0000'

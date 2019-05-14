@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Thinkphp独立分组模式下，每个分组的单独配置文件config.php位置在哪里
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 176
 wordpress_url: http://blog.byneil.com/?p=176
 date: '2014-01-01 00:13:12 +0000'

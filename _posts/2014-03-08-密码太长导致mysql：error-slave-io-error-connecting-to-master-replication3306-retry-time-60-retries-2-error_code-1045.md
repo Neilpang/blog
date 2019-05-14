@@ -4,13 +4,13 @@ status: publish
 published: true
 title: '密码太长导致mysql：ERROR] Slave I/O: error connecting to master ''replication@******:3306''
   - retry-time: 60  retries: 2, Error_code: 1045'
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 412
 wordpress_url: https://blog.byneil.com/?p=412
 date: '2014-03-08 15:02:04 +0000'

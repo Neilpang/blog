@@ -4,13 +4,13 @@ status: publish
 published: true
 title: '解决：fatal error C1902: Program database manager mismatch; please check your
   installation'
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1009
 wordpress_url: https://blog.byneil.com/?p=1009
 date: '2014-10-13 11:57:52 +0000'

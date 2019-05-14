@@ -4,13 +4,13 @@ status: publish
 published: true
 title: C# mysql 链接 遇到 异常 Authentication with old password no longer supported, use
   4.1 style passwords.
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 5
 wordpress_url: http://blog.byneil.com/?p=5
 date: '2013-04-30 11:38:24 +0000'

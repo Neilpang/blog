@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 使用java keytool 查看,添加,删除 jks 文件
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1131
 wordpress_url: https://blog.byneil.com/?p=1131
 date: '2016-07-23 21:08:18 +0000'

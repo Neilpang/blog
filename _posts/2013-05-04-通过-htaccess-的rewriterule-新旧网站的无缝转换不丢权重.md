@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 通过.htaccess 的rewriterule 新旧网站的无缝转换,不丢权重
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 19
 wordpress_url: http://blog.byneil.com/?p=19
 date: '2013-05-04 20:51:43 +0000'

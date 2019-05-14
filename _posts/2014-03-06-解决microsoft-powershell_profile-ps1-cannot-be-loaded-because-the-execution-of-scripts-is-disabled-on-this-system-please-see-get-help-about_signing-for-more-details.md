@@ -5,13 +5,13 @@ published: true
 title: 解决:Microsoft.PowerShell_profile.ps1 cannot be loaded because the execution
   of scripts is disabled on this system. Please see &ldquo;get-help about_signing&rdquo;
   for more details.
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 395
 wordpress_url: https://blog.byneil.com/?p=395
 date: '2014-03-06 10:02:37 +0000'

@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Delphi/c++builder 中出现 "float operation exception"
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 1180
 wordpress_url: https://blog.byneil.com/?p=1180
 date: '2017-03-22 22:35:59 +0000'

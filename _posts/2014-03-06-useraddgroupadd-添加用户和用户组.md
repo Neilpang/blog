@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: useradd,groupadd 添加用户和用户组
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 390
 wordpress_url: https://blog.byneil.com/?p=390
 date: '2014-03-06 00:05:37 +0000'

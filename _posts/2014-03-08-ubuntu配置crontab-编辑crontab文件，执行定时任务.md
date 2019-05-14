@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: ubuntu配置crontab, 编辑crontab文件，执行定时任务
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 450
 wordpress_url: https://blog.byneil.com/?p=450
 date: '2014-03-08 18:50:22 +0000'

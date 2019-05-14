@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Tcp 断开连接,及linger
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 132
 wordpress_url: http://blog.byneil.com/?p=132
 date: '2013-10-30 10:57:44 +0000'

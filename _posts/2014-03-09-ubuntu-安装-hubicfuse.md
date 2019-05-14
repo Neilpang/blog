@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: ubuntu 安装 hubicfuse
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 458
 wordpress_url: https://blog.byneil.com/?p=458
 date: '2014-03-09 23:40:35 +0000'

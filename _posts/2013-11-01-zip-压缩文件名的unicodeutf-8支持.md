@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: zip 压缩文件名的unicode(utf-8)支持
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 135
 wordpress_url: http://blog.byneil.com/?p=135
 date: '2013-11-01 17:16:10 +0000'

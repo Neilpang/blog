@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: vmware player 调整虚拟磁盘的大小
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 442
 wordpress_url: https://blog.byneil.com/?p=442
 date: '2014-03-08 16:43:02 +0000'

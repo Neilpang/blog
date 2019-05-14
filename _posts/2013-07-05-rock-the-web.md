@@ -3,11 +3,11 @@ layout: boxes
 status: publish
 published: true
 title: Rock The Web!
-author:
+author: Neil
   display_name: ''
   login: ''
   email: ''
-  url: ''
+
 wordpress_id: 56
 wordpress_url: http://blog.byneil.com/?boxes=rock-the-web
 date: '2013-07-05 09:48:55 +0000'

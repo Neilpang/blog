@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 导入用户信息到discuz ucenter.
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 40
 wordpress_url: http://blog.byneil.com/?p=40
 date: '2013-06-23 18:40:29 +0000'

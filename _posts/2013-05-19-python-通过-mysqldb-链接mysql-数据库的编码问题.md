@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: python 通过 MySQLdb 链接mysql 数据库的编码问题
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 31
 wordpress_url: http://blog.byneil.com/?p=31
 date: '2013-05-19 18:10:01 +0000'

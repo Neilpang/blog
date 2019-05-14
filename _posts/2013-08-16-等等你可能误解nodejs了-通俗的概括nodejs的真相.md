@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: 等等,你可能误解nodejs了--通俗的概括nodejs的真相
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 86
 wordpress_url: http://blog.byneil.com/?p=86
 date: '2013-08-16 18:12:50 +0000'

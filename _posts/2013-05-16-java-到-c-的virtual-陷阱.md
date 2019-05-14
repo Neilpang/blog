@@ -3,13 +3,13 @@ layout: post
 status: publish
 published: true
 title: Java 到 C# 的virtual 陷阱
-author:
-  display_name: Neil
-  login: Neil
-  email: info@byneil.com
-  url: ''
+author: Neil
+
+
+
+
 author_login: Neil
-author_email: info@byneil.com
+
 wordpress_id: 26
 wordpress_url: http://blog.byneil.com/?p=26
 date: '2013-05-16 15:49:14 +0000'
