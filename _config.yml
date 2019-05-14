@@ -1,7 +1,7 @@
 title: Neil
 brief-intro: Developer
-baseurl:
-url:
+baseurl: #"/blog" # the subpath of your site, e.g. /blog
+url: #"https://neilpang.github.io" # the base hostname & protocol for your site
 
 permalink: /:title/
 
