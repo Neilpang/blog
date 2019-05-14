@@ -35,3 +35,4 @@ f(x) = ax + b
 $$
 
 Inline Mathjax $a \neq b$
+

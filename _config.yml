@@ -1,35 +1,27 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Neil
 brief-intro: Developer
-baseurl: #"/blog" # the subpath of your site, e.g. /blog
-url: #"https://neilpang.github.io" # the base hostname & protocol for your site
-remote-theme: "Neilpang/blogtheme"
+baseurl:
+url:
 
 permalink: /:title/
 
 # other links
-#twitter_username: 
-#facebook_username: 
+twitter_username:
+facebook_username:
 github_username:  Neilpang
-#email: 
-#weibo_username: 
-#zhihu_username: 
-#linkedIn_username: 
-#dribbble_username:
+email:
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
+dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
 
+remote_theme: "Neilpang/blogtheme"
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
+#duoshuo_shortname: #
 #disqus_shortname: 
 
 # statistic analysis 统计代码
@@ -37,7 +29,7 @@ duoshuo_shortname: #hygblog
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 #baidu_tongji_id: 
-#google_analytics_id: UA--4 # google 分析追踪id
+#google_analytics_id: 
 
 # Build settings
 markdown: kramdown
