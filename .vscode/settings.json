@@ -1,5 +1,6 @@
 {
-    "pasteImage.path": "${projectRoot}/images"
+    "pasteImage.path": "${projectRoot}/images",
+    "vsnotes.defaultNoteTitle": "{dt}-{title}.{ext}"
 
     
 }
