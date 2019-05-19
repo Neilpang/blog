@@ -27,5 +27,7 @@
           "format": "md"
         }
       ],
+      "git.ignoreLimitWarning": true,
+      "vsnotes.noteTitleConvertSpaces": "null",
     
 }
