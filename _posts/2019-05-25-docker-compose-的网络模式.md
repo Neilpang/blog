@@ -17,5 +17,20 @@ https://docs.docker.com/compose/networking/
 
 
 如果在一些简单的情况下, 我们不需要这么复杂, 只需要让 `docker-compose` 不创建独立网络, 而像以前一样使用系统的默认网络就好.
+只需要加入: `network_mode: bridge`
 
+像这样:
+
+```
+version: "2.1"
+
+services:
+  app:
+    image: ubuntu:latest
+    network_mode: bridge
+
+```
+
+参考:
+https://stackoverflow.com/questions/43754095/how-to-join-the-default-bridge-network-with-docker-compose-v2
 
