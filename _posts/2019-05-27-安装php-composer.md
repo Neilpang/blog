@@ -8,11 +8,7 @@ tags:
 用下面的命令安装:
 
 ```
-php -r "copy('https://install.phpcomposer.com/installer', 'composer-setup.php');"
-
-php composer-setup.php
-
-
-
+curl -sS https://getcomposer.org/installer | php
+mv composer.phar /usr/local/bin/composer
 
 ```
