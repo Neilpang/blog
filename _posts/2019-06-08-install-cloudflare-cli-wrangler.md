@@ -1,0 +1,6 @@
+---
+tags:
+  - cloudflare
+  - wrangler
+  - ubuntu
+---
