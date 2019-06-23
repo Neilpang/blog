@@ -11,7 +11,7 @@ tags:
 
 但是 RSA 交换算法已经普遍被禁用了, 对于主流的 DH 或者 ECDH 交换算法, wireshark 无法解密.
 
-但是, 工业上的一个实际标准可以是 wireshark 解密这些ssl 链接:
+但是, 工业上的一个实际标准可以试 wireshark 解密这些ssl 链接:
 
 设置  `SSLKEYLOGFILE` 环境变量.
 
